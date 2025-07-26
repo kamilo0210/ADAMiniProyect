@@ -1,11 +1,9 @@
-# main.py
-
 import os
 import time
-from merge_bst.bst import BST
-from merge_bst.merge_sort import merge_sort
+from merge_abb.abb import ABB
+from merge_abb.merge_sort import merge_sort
 from heap_sort.heap_sort import heap_sort
-import stats
+import estadisticas
 
 class Encuestado:
     def __init__(self, id_, nombre, experticia, opinion):
@@ -23,14 +21,14 @@ class Pregunta:
     def compute_stats(self):
         ops = [e.opinion for e in self.enc]
         exs = [e.experticia for e in self.enc]
-        self.avg_op = stats.average(ops)
-        self.avg_ex = stats.average(exs)
+        self.avg_op = estadisticas.promedio(ops)
+        self.avg_ex = estadisticas.promedio(exs)
         # mediana necesita lista ordenada por opinión
         # la fija en main con preg.med
         self.med     = None
-        self.mod     = stats.mode(ops)
-        self.ext     = stats.extremism(ops)
-        self.cons    = stats.consensus(ops)
+        self.mod     = estadisticas.moda(ops)
+        self.ext     = estadisticas.extremismo(ops)
+        self.cons    = estadisticas.consenso(ops)
 
 class Tema:
     def __init__(self, id_tema, preguntas):
@@ -39,8 +37,8 @@ class Tema:
     def compute_stats(self):
         ops = [p.avg_op for p in self.preguntas]
         exs = [p.avg_ex for p in self.preguntas]
-        self.avg_avg_op = stats.average(ops)
-        self.avg_avg_ex = stats.average(exs)
+        self.avg_avg_op = estadisticas.promedio(ops)
+        self.avg_avg_ex = estadisticas.promedio(exs)
         self.total_enc  = sum(len(p.enc) for p in self.preguntas)
 
 def parse_file(path):
@@ -86,7 +84,7 @@ def parse_file(path):
 
 def sort_encuestados(enc_list, estrategia):
     if estrategia == 1:
-        bst = BST()
+        bst = ABB()
         for e in enc_list:
             bst.insert((e.opinion, e.experticia), e)
         return bst.traverse_desc()
@@ -107,7 +105,7 @@ def main():
             p.compute_stats()
             # para la mediana de opinión:
             sorted_enc = sort_encuestados(p.enc, estr)
-            p.med = stats.median([e.opinion for e in sorted_enc])
+            p.med = estadisticas.mediana([e.opinion for e in sorted_enc])
         t.compute_stats()
 
     # 2) Ordenar preguntas dentro de cada tema

@@ -1,4 +1,3 @@
-# heap_sort/heap_sort.py
 from heap_sort.heap import MaxHeap
 
 def heap_sort(arr, key_fn):

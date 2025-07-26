@@ -1,4 +1,3 @@
-# merge_bst/bst.py
 class Node:
     def __init__(self, key, data):
         self.key = key      # Tupla (opinión, experticia)
@@ -6,7 +5,7 @@ class Node:
         self.left = None
         self.right = None
 
-class BST:
+class ABB:
     def __init__(self):
         self.root = None
 

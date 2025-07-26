@@ -1,5 +1,3 @@
-# heap_sort/heap.py
-
 class MaxHeap:
     def __init__(self):
         self.data = []
