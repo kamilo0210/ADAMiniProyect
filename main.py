@@ -92,7 +92,8 @@ def sort_encuestados(enc_list, estrategia):
         return heap_sort(enc_list, lambda e: (e.opinion, e.experticia))
 
 def main():
-    ruta = input("Ruta del archivo de encuesta (./encuestas/archivo.txt): ")
+    print("Bienvenido al analizador de encuestas\n")
+    ruta = "encuestas/" + input("Nombre del archivo de encuesta (ej: Test1.txt): ")
     estr = int(input("Seleccione estrategia (1-Merge+BST, 2-Heap): "))
     t0   = time.time()
 
