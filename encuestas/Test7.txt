@@ -1,0 +1,124 @@
+Cristina Meléndez Tamarit, Experticia: 5, Opinión: 3
+Sabina Ledesma Esparza, Experticia: 7, Opinión: 1
+Tecla Chaparro Ferrer, Experticia: 5, Opinión: 5
+Nélida de Agustín, Experticia: 3, Opinión: 8
+Melchor Cifuentes Marquez, Experticia: 2, Opinión: 6
+Juan Carlos Eric Perea Quintana, Experticia: 3, Opinión: 0
+Victoria Anguita Taboada, Experticia: 3, Opinión: 5
+Román Bellido Amigó, Experticia: 10, Opinión: 0
+Marianela Alemany, Experticia: 3, Opinión: 4
+Amado Bellido Cordero, Experticia: 6, Opinión: 9
+Azahar Alvarado Villegas, Experticia: 0, Opinión: 7
+Noemí Palomino, Experticia: 7, Opinión: 5
+Maximiano Olmedo Lobato, Experticia: 5, Opinión: 9
+Felicidad del Pons, Experticia: 9, Opinión: 5
+Concha Aroca Alba, Experticia: 3, Opinión: 2
+Adoración Bas Amorós, Experticia: 7, Opinión: 10
+Roldán Blanes Arroyo, Experticia: 3, Opinión: 2
+Bienvenida Clara Quero Segura, Experticia: 8, Opinión: 8
+Cipriano Bosch Valcárcel, Experticia: 10, Opinión: 4
+Valentina Poza Baquero, Experticia: 1, Opinión: 0
+Feliciana Marcos Delgado, Experticia: 6, Opinión: 4
+Nacho Planas-Ramón, Experticia: 0, Opinión: 0
+José Antonio Rosales Ortega, Experticia: 9, Opinión: 0
+Porfirio Luis Ángel Manjón Ortega, Experticia: 10, Opinión: 4
+Leonardo Reynaldo Naranjo Marín, Experticia: 4, Opinión: 6
+Primitiva Escamilla Morcillo, Experticia: 0, Opinión: 5
+Nerea Ibáñez Ballesteros, Experticia: 0, Opinión: 8
+Esther Almagro-Gargallo, Experticia: 1, Opinión: 4
+Juan Luis Víctor Vidal Cortés, Experticia: 8, Opinión: 6
+Iker Nicolau Laguna, Experticia: 6, Opinión: 10
+Lidia Bolaños Ramirez, Experticia: 4, Opinión: 1
+Susanita Reguera Rosales, Experticia: 3, Opinión: 3
+María Luisa Gomis Mosquera, Experticia: 3, Opinión: 5
+Noemí Girón Herrero, Experticia: 8, Opinión: 4
+Abigaíl Cadenas Cáceres, Experticia: 6, Opinión: 6
+Cintia Tirado Vélez, Experticia: 10, Opinión: 6
+Florentino Morales Barberá, Experticia: 7, Opinión: 9
+Serafina León Calvo, Experticia: 1, Opinión: 8
+Damián Benavent, Experticia: 9, Opinión: 10
+Clímaco Rius, Experticia: 9, Opinión: 1
+Eustaquio Valls Nebot, Experticia: 1, Opinión: 6
+Haroldo Ropero Marí, Experticia: 9, Opinión: 1
+Atilio Zamora Lozano, Experticia: 6, Opinión: 1
+Constanza Balaguer Vilanova, Experticia: 8, Opinión: 4
+Rómulo Ibáñez Domínguez, Experticia: 5, Opinión: 10
+Marc Ricart Calderon, Experticia: 2, Opinión: 7
+Vito Madrid Carlos, Experticia: 4, Opinión: 9
+Nélida Peral Canales, Experticia: 0, Opinión: 9
+Raúl del Pereira, Experticia: 4, Opinión: 9
+Loreto Marqués Granados, Experticia: 1, Opinión: 2
+Candelario Salas Arias, Experticia: 6, Opinión: 2
+Abel Pelayo-González, Experticia: 9, Opinión: 6
+Eliseo Arévalo Saura, Experticia: 0, Opinión: 9
+Viviana Zapata Manjón, Experticia: 4, Opinión: 8
+Mamen Barros Calvo, Experticia: 10, Opinión: 1
+Vasco Doménech Cabanillas, Experticia: 4, Opinión: 3
+Anselmo Sastre, Experticia: 8, Opinión: 3
+Francisco Marín Polo, Experticia: 9, Opinión: 6
+Alba Paz Polo, Experticia: 1, Opinión: 5
+Hilda Urrutia-Doménech, Experticia: 1, Opinión: 6
+Valentina Santiago Abascal, Experticia: 5, Opinión: 4
+Yago Abad-Noriega, Experticia: 10, Opinión: 9
+Anacleto Cueto, Experticia: 1, Opinión: 7
+Curro Benet Baños, Experticia: 2, Opinión: 1
+Álvaro del Villalba, Experticia: 8, Opinión: 2
+Luna Vera Chaparro Cabrera, Experticia: 8, Opinión: 10
+Toño Criado Gutierrez, Experticia: 6, Opinión: 9
+Nieves Valbuena-Real, Experticia: 7, Opinión: 9
+Ani de Mármol, Experticia: 8, Opinión: 5
+Emigdio Cayetano Martorell Maestre, Experticia: 8, Opinión: 6
+Crescencia Domingo Pol, Experticia: 10, Opinión: 3
+Francisco Jose Cornejo Bonet, Experticia: 5, Opinión: 9
+Erasmo del Lumbreras, Experticia: 5, Opinión: 1
+Jose Ramón Navas-Saavedra, Experticia: 3, Opinión: 7
+Alba Capdevila-Benavente, Experticia: 3, Opinión: 8
+Clarisa Cases Royo, Experticia: 6, Opinión: 1
+Camila Beltrán Perez, Experticia: 10, Opinión: 9
+Cristian Mendez Palomino, Experticia: 9, Opinión: 4
+Rosario Esteban Gabaldón, Experticia: 6, Opinión: 0
+Teresa Sanjuan, Experticia: 4, Opinión: 0
+Sigfrido Aragonés Piquer, Experticia: 9, Opinión: 6
+Socorro Montoya Castro, Experticia: 3, Opinión: 5
+Trinidad Cañellas Palacio, Experticia: 7, Opinión: 10
+Aureliano Lluch Milla, Experticia: 9, Opinión: 3
+Amancio Dueñas Zapata, Experticia: 5, Opinión: 10
+Paola Esparza Canet, Experticia: 6, Opinión: 7
+Magdalena Tejero Rios, Experticia: 2, Opinión: 2
+Obdulia Andreu Salvà, Experticia: 3, Opinión: 5
+Guadalupe de Andrés, Experticia: 4, Opinión: 2
+Tristán Anguita Herrero, Experticia: 0, Opinión: 8
+Claudio Macías Almazán, Experticia: 2, Opinión: 6
+Loreto Pazos-Nicolás, Experticia: 10, Opinión: 2
+Maura Tormo-Bárcena, Experticia: 3, Opinión: 1
+Begoña Pi Rico, Experticia: 1, Opinión: 3
+Reynaldo del Llopis, Experticia: 2, Opinión: 4
+Adán Giménez, Experticia: 5, Opinión: 8
+Albina Collado, Experticia: 6, Opinión: 4
+Rubén Aparicio Higueras, Experticia: 3, Opinión: 10
+Pascuala Fuente-Lozano, Experticia: 4, Opinión: 8
+Elías Ballester Narváez, Experticia: 7, Opinión: 3
+
+{80, 71, 47, 69, 52}
+{26, 36, 70, 18, 15, 98}
+{38, 32, 54, 44, 14, 30}
+{9, 64, 99, 84, 62, 1, 23}
+{25, 93, 56, 43, 94, 29}
+
+{41, 72, 59, 61, 16}
+{92, 10, 53, 45, 88}
+{21, 34, 19, 17, 46}
+{85, 50, 35, 95, 65}
+{74, 97, 81, 60, 27, 7}
+
+{58, 8, 40, 11}
+{3, 82, 49, 22, 77}
+{79, 76, 66, 5, 100}
+{31, 12, 67, 75, 87}
+{51, 73, 57, 83, 91}
+
+{33, 13, 24, 39, 37}
+{96, 6, 4, 78, 86, 20, 48}
+{68, 42, 90, 63}
+{55,89}
+{28, 2}

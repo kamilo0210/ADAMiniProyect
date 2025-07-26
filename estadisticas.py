@@ -1,3 +1,4 @@
+#estadisticas.py
 from collections import Counter
 
 def promedio(values):

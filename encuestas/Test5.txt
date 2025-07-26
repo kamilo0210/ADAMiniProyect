@@ -1,0 +1,100 @@
+Reyes Perea López, Experticia: 6, Opinión: 7
+José María del Castañeda, Experticia: 7, Opinión: 5
+Adela Arrieta Giménez, Experticia: 3, Opinión: 0
+Daniela Salinas, Experticia: 6, Opinión: 4
+Carla Pina Iglesias, Experticia: 7, Opinión: 1
+Andrea Zamorano Rius, Experticia: 4, Opinión: 4
+José Antonio Avilés Izaguirre, Experticia: 8, Opinión: 1
+Lupe de Camps, Experticia: 8, Opinión: 3
+Íñigo Carreras-Bernad, Experticia: 3, Opinión: 7
+Isidoro Lamas, Experticia: 9, Opinión: 8
+Liliana Larrañaga Páez, Experticia: 2, Opinión: 8
+Quirino Morante Bravo, Experticia: 0, Opinión: 5
+Leire Marí-Ropero, Experticia: 5, Opinión: 6
+Ale Guzman Iriarte, Experticia: 10, Opinión: 7
+Isabela Sarabia Cortes, Experticia: 2, Opinión: 6
+Luis Corbacho Acevedo, Experticia: 2, Opinión: 7
+Carolina Cuervo Hernando, Experticia: 5, Opinión: 6
+Marina Falcón Barroso, Experticia: 0, Opinión: 10
+Ruperto Vendrell Olivera, Experticia: 3, Opinión: 9
+Yésica de Alfaro, Experticia: 10, Opinión: 4
+Fabiana España Alcolea, Experticia: 10, Opinión: 5
+Alfredo Navas, Experticia: 10, Opinión: 5
+Juan Francisco Roldán Matas Orozco, Experticia: 2, Opinión: 10
+Maristela Sala Marquez, Experticia: 1, Opinión: 3
+Juliana Ávila Berenguer, Experticia: 1, Opinión: 8
+Julián Conde Osuna, Experticia: 3, Opinión: 7
+Abel Cabello Fuente, Experticia: 6, Opinión: 0
+Iris Garrido Pardo, Experticia: 9, Opinión: 3
+José Luis Carbó Castell, Experticia: 6, Opinión: 4
+Pedro de Ibarra, Experticia: 5, Opinión: 3
+Maximiliano Eutropio Sáez Ruano, Experticia: 0, Opinión: 10
+Ibán Roldan Caparrós, Experticia: 10, Opinión: 6
+Aitana Santana Arribas, Experticia: 1, Opinión: 3
+Soraya Rocha Álamo, Experticia: 4, Opinión: 0
+Luisa Llamas Murcia, Experticia: 1, Opinión: 7
+Iker Pellicer Jódar, Experticia: 1, Opinión: 0
+Seve Isern Mulet, Experticia: 2, Opinión: 10
+Pepita Pina Piñeiro, Experticia: 3, Opinión: 8
+Amanda Anunciación Romero Franco, Experticia: 10, Opinión: 5
+Herberto Pardo Ferrero, Experticia: 7, Opinión: 4
+Manuela Castejón-Uribe, Experticia: 8, Opinión: 5
+Fátima Estevez Baños, Experticia: 3, Opinión: 6
+Rafaela Giralt-Vega, Experticia: 1, Opinión: 0
+Íñigo Osorio Tormo, Experticia: 5, Opinión: 2
+Domitila Arribas Cervantes, Experticia: 8, Opinión: 2
+Alonso Torrens Roig, Experticia: 2, Opinión: 7
+Edgardo Sanjuan, Experticia: 3, Opinión: 8
+Néstor Gargallo-Villegas, Experticia: 0, Opinión: 1
+Josefa Saavedra-Guzman, Experticia: 0, Opinión: 7
+Pío Fuente Muñoz, Experticia: 0, Opinión: 8
+Nacho Izaguirre Riba, Experticia: 0, Opinión: 1
+Clímaco Arjona, Experticia: 4, Opinión: 1
+Marisol Hierro, Experticia: 4, Opinión: 7
+Alex de Ordóñez, Experticia: 9, Opinión: 0
+Etelvina Fajardo-Zapata, Experticia: 9, Opinión: 10
+Otilia Castells Andreu, Experticia: 2, Opinión: 6
+Eligio Barón, Experticia: 1, Opinión: 2
+Gisela Sanmiguel Luján, Experticia: 6, Opinión: 4
+Vicenta Barba Tur, Experticia: 5, Opinión: 0
+Alejandro Artemio Sastre Marí, Experticia: 8, Opinión: 6
+Martín Tolosa Pablo, Experticia: 6, Opinión: 9
+Ruy Eusebio Castilla Ugarte, Experticia: 8, Opinión: 0
+Elpidio Frías García, Experticia: 1, Opinión: 5
+Isabela Casas Ramis, Experticia: 0, Opinión: 1
+Raimundo Torre Bru, Experticia: 9, Opinión: 7
+Gil Prado Torralba, Experticia: 6, Opinión: 6
+Óscar Jiménez Lerma, Experticia: 0, Opinión: 2
+Esteban Mas Noguera, Experticia: 1, Opinión: 7
+Almudena del Cózar, Experticia: 0, Opinión: 5
+Juanito de Pulido, Experticia: 3, Opinión: 2
+Rosa Batlle Bonet, Experticia: 1, Opinión: 6
+Domingo Campillo Esteban, Experticia: 9, Opinión: 10
+Marianela del Ureña, Experticia: 10, Opinión: 10
+Asdrubal Fiol Casal, Experticia: 6, Opinión: 10
+Leandra Lastra, Experticia: 1, Opinión: 5
+Jacinto Álvarez Vall, Experticia: 3, Opinión: 2
+Olivia Crespi Fábregas, Experticia: 6, Opinión: 5
+Buenaventura Borrás Vallés, Experticia: 10, Opinión: 7
+Elena Valero Rodrigo, Experticia: 5, Opinión: 0
+Jose Antonio Antón Mascaró, Experticia: 5, Opinión: 0
+
+{80, 66, 40, 78, 58, 50}
+{12, 13, 53, 1, 22, 15}
+{61, 71, 70, 45, 47, 49}
+{44, 8, 11, 54, 32}
+
+{63, 55, 27, 4, 9}
+{67, 75, 39, 43, 46, 29}
+{77, 18, 38, 5, 10}
+{7, 30, 23, 14, 33}
+
+{74, 62, 72, 31, 16, 28}
+{25, 17, 51, 68, 69, 2}
+{24, 41, 52, 21}
+{26, 56, 65, 34}
+
+{35, 60, 64, 48}
+{36, 57, 79, 3, 42, 59}
+{20, 76, 19, 6, 73}
+{37}

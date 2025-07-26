@@ -1,3 +1,4 @@
+#merge_abb.merge_sort
 def merge_sort(arr, key_fn):
     """Merge Sort genérico: ordena arr descendente según key_fn."""
     if len(arr) <= 1:

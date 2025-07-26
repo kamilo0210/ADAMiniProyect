@@ -1,0 +1,75 @@
+Teobaldo Vilaplana Castellanos, Experticia: 8, Opinión: 7
+Nerea Ariño Anaya, Experticia: 8, Opinión: 5
+Roberta Oliva-Suárez, Experticia: 3, Opinión: 5
+Abril del Landa, Experticia: 5, Opinión: 7
+Noelia Manu Nadal Cuenca, Experticia: 7, Opinión: 2
+Débora Marí Amo, Experticia: 2, Opinión: 9
+Anita Roselló-Gual, Experticia: 1, Opinión: 1
+Epifanio Delgado Pinedo, Experticia: 6, Opinión: 7
+Yago Ríos Pazos, Experticia: 3, Opinión: 6
+Eugenio de Batlle, Experticia: 0, Opinión: 10
+Fulgencio Zaragoza Becerra, Experticia: 7, Opinión: 10
+Claudio Cornejo-Rivero, Experticia: 5, Opinión: 0
+Paco de Gras, Experticia: 8, Opinión: 5
+Fabricio del Madrigal, Experticia: 8, Opinión: 9
+Mamen Madrigal Borrego, Experticia: 0, Opinión: 3
+Agustina Pozuelo-Nadal, Experticia: 4, Opinión: 3
+Jose Luis Jódar Vicens, Experticia: 10, Opinión: 4
+Lilia Requena, Experticia: 7, Opinión: 3
+Casandra Velasco Molins, Experticia: 5, Opinión: 10
+Regina Palomino-Pla, Experticia: 3, Opinión: 7
+Baltasar Blanch Rivera, Experticia: 7, Opinión: 2
+Palmira Cobo Sevillano, Experticia: 5, Opinión: 2
+Toni Herranz Diego, Experticia: 8, Opinión: 1
+Encarnación Sureda Carretero, Experticia: 6, Opinión: 6
+Osvaldo Juárez Revilla, Experticia: 8, Opinión: 4
+Cipriano Donaire Cortés, Experticia: 0, Opinión: 7
+Edu Gabaldón, Experticia: 1, Opinión: 7
+Aurelia Cueto-Puente, Experticia: 0, Opinión: 2
+Enrique Aguado Gimenez, Experticia: 2, Opinión: 7
+Sol Chita Cabo Requena, Experticia: 0, Opinión: 10
+Mateo Manzano Corominas, Experticia: 5, Opinión: 1
+Urbano Rosa Palma, Experticia: 10, Opinión: 5
+Brunilda Frías Lasa, Experticia: 3, Opinión: 0
+Tere Meléndez-Coronado, Experticia: 9, Opinión: 1
+Ainoa Apolonia Amor López, Experticia: 2, Opinión: 3
+Paulino Gonzalez Escolano, Experticia: 5, Opinión: 1
+Rosalva Expósito-Rocha, Experticia: 10, Opinión: 8
+Marcelo Valderrama, Experticia: 5, Opinión: 9
+Mirta Alfonso Palomo, Experticia: 2, Opinión: 8
+Socorro Alcázar Pastor, Experticia: 10, Opinión: 3
+Fernanda del Yáñez, Experticia: 6, Opinión: 10
+Amor Bueno Hernando, Experticia: 1, Opinión: 4
+Eligio Garrido, Experticia: 8, Opinión: 2
+Federico Arellano Ropero, Experticia: 3, Opinión: 3
+Lino Barros, Experticia: 8, Opinión: 0
+Patricio Sureda, Experticia: 2, Opinión: 5
+Nadia Montoya Antón, Experticia: 7, Opinión: 8
+Angelina Gibert Sanz, Experticia: 0, Opinión: 10
+Ruperta Itziar Saldaña Checa, Experticia: 5, Opinión: 8
+Fulgencio Alsina Hoz, Experticia: 4, Opinión: 9
+Flor Acosta Miranda, Experticia: 7, Opinión: 5
+Rodrigo Gibert Feliu, Experticia: 1, Opinión: 6
+Fabio Cabo, Experticia: 10, Opinión: 5
+Raúl Luis Vila Arnal, Experticia: 5, Opinión: 5
+Áurea Costa, Experticia: 7, Opinión: 7
+Apolinar Álvaro Murillo Cámara, Experticia: 6, Opinión: 8
+Mariano Arellano-Caballero, Experticia: 10, Opinión: 6
+Goyo Lara Jaén, Experticia: 2, Opinión: 8
+Fabián Exposito-Padilla, Experticia: 1, Opinión: 2
+Tere Plaza-Pascual, Experticia: 5, Opinión: 1
+
+{51, 11, 5, 16, 8}
+{43, 15, 22}
+{39, 41, 7}
+{3, 32, 38, 55, 2}
+
+{24, 37, 46, 35, 28}
+{30, 6, 40, 14}
+{13, 27, 25}
+{44, 50, 54}
+
+{19, 29, 60, 4, 1}
+{17, 52, 20}
+{58, 59, 49}
+{57, 23, 48, 33}
